@@ -1,0 +1,3 @@
+useDynLib(softimpute)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
